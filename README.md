@@ -1,0 +1,2 @@
+# Bitnami-MediaWiki
+Bitnami-MediaWiki
